@@ -14,13 +14,13 @@ function App() {
         <div id="left">
           <Link className="left-link" to={"/"}>
             <div className="left-item">
-              <img src="./images/pie-chart.png" />
+              <img src={process.env.PUBLIC_URL + "/images/pie-chart.png"} />
               <span>Status</span>
             </div>
           </Link>
           <Link className="left-link" to={"/settings"}>
             <div className="left-item">
-              <img src="./images/gear.png" />
+              <img src={process.env.PUBLIC_URL + "/images/gear.png"} />
               <span>Settings</span>
             </div>
           </Link>

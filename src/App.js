@@ -21,7 +21,7 @@ function App() {
           <Link className="left-link" to={"/settings"}>
             <div className="left-item">
               <img src={process.env.PUBLIC_URL + "/images/gear.png"} />
-              <span>Settings</span>
+              <span>Setting</span>
             </div>
           </Link>
         </div>

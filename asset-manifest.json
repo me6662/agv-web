@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/agv-web/static/css/main.e345ee4b.chunk.css",
-    "main.js": "/agv-web/static/js/main.0b469c5f.chunk.js",
-    "main.js.map": "/agv-web/static/js/main.0b469c5f.chunk.js.map",
+    "main.js": "/agv-web/static/js/main.2035e08a.chunk.js",
+    "main.js.map": "/agv-web/static/js/main.2035e08a.chunk.js.map",
     "runtime-main.js": "/agv-web/static/js/runtime-main.df72027d.js",
     "runtime-main.js.map": "/agv-web/static/js/runtime-main.df72027d.js.map",
     "static/js/2.1a5d60e6.chunk.js": "/agv-web/static/js/2.1a5d60e6.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.df72027d.js",
     "static/js/2.1a5d60e6.chunk.js",
     "static/css/main.e345ee4b.chunk.css",
-    "static/js/main.0b469c5f.chunk.js"
+    "static/js/main.2035e08a.chunk.js"
   ]
 }

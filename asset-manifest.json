@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/agv-web/static/css/main.e345ee4b.chunk.css",
+    "main.js": "/agv-web/static/js/main.0b469c5f.chunk.js",
+    "main.js.map": "/agv-web/static/js/main.0b469c5f.chunk.js.map",
+    "runtime-main.js": "/agv-web/static/js/runtime-main.df72027d.js",
+    "runtime-main.js.map": "/agv-web/static/js/runtime-main.df72027d.js.map",
+    "static/js/2.1a5d60e6.chunk.js": "/agv-web/static/js/2.1a5d60e6.chunk.js",
+    "static/js/2.1a5d60e6.chunk.js.map": "/agv-web/static/js/2.1a5d60e6.chunk.js.map",
+    "static/js/3.6abe023d.chunk.js": "/agv-web/static/js/3.6abe023d.chunk.js",
+    "static/js/3.6abe023d.chunk.js.map": "/agv-web/static/js/3.6abe023d.chunk.js.map",
+    "index.html": "/agv-web/index.html",
+    "static/css/main.e345ee4b.chunk.css.map": "/agv-web/static/css/main.e345ee4b.chunk.css.map",
+    "static/js/2.1a5d60e6.chunk.js.LICENSE.txt": "/agv-web/static/js/2.1a5d60e6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/agv-web/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df72027d.js",
+    "static/js/2.1a5d60e6.chunk.js",
+    "static/css/main.e345ee4b.chunk.css",
+    "static/js/main.0b469c5f.chunk.js"
+  ]
+}
